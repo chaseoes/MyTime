@@ -1,0 +1,8 @@
+name: MyTime
+main: com.chaseoes.mytime.MyTime
+version: 1.0
+description: Track how long players are online.
+commands:
+  mytime:
+    description: The central command for the MyTime plugin.
+    usage: /<command> [args]
